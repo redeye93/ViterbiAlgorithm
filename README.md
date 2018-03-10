@@ -1,0 +1,2 @@
+# ViterbiAlgorithm
+Parts of Speech tagger HMM model based on Viterbi's algorithm. The program hmmlearn.py takes in a labelled corpus and generates a model using this training data and saves it in a hmmmodel.txt. This file is later on referred by hmmdecode.py to label the data. The accuracy of this code on the given training corpus is 88.7910423972 on the english language data set and 86.9547119547 on the chinese language data set.
